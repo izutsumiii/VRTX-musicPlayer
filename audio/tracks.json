@@ -1,0 +1,62 @@
+[
+    {
+        "artist": "Deftones",
+        "musicName": "Diamond Eyes",
+        "cover": "cover/Diamond Eyes.jpg",
+        "musicPath": "audio/Deftones - Diamond Eyes.mp3"
+    },
+    {
+        "artist": "Arcane League of Legends",
+        "musicName": "Ma Meilleure Ennemie",
+        "cover": "cover/Arcane.jpg",
+        "musicPath": "audio/Ma Meilleure Ennemie (from the series Arcane League of Legends).mp3"
+    },
+    {
+        "artist": "Pierce The Veil",
+        "musicName": "One Hundred Sleepless Nights",
+        "cover": "cover/Collide With The Sky.jpg",
+        "musicPath": "audio/Pierce The Veil - One Hundred Sleepless Nights.mp3"
+    },
+    {
+        "artist": "The Last Shadow Puppets",
+        "musicName": "My Mistakes Were Made For You",
+        "cover": "cover/My Mistakes Were Made For You.jpg",
+        "musicPath": "audio/The Last Shadow Puppets - My Mistakes Were Made For You.mp3"
+    },
+    {
+        "artist": "Noah Cyrus",
+        "musicName": "Again",
+        "cover": "cover/Again.jpg",
+        "musicPath": "audio/Noah Cyrus - Again.mp3"
+    },
+    {
+        "artist": "Rihanna",
+        "musicName": "Needed Me",
+        "cover": "cover/Needed Me.jpg",
+        "musicPath": "audio/Needed Me.mp3"
+    },
+    {
+        "artist": "The Strokes",
+        "musicName": "Last Nite",
+        "cover": "cover/Last Nite.jpg",
+        "musicPath": "audio/The Strokes - Last Nite.mp3"
+    },
+    {
+        "artist": "The Drums",
+        "musicName": "Money",
+        "cover": "cover/Money.jpg",
+        "musicPath": "audio/The Drums - Money.mp3"
+    },
+    {
+        "artist": "Gotye",
+        "musicName": "Somebody That You Used To Know",
+        "cover": "cover/Gotye.jpg",
+        "musicPath": "audio/Gotye.mp3"
+    },
+    {
+        "artist": "Megan Thee Stallion ft RM",
+        "musicName": "Neva Play",
+        "cover": "cover/Neva Play.jpg",
+        "musicPath": "audio/Neva Play.mp3"
+    }
+]
